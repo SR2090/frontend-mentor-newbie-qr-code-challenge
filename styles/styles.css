@@ -16,6 +16,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-content: center;
+  height: 95vh;
 }
 
 .qr-code {
@@ -50,9 +51,5 @@ body {
   border-radius: 12px;
   height: auto;
   width: 200px;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  top: 50%;
   margin: auto;
 }
